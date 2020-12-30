@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{AFF8BC09-2A25-4900-89BF-8F7589031CE4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EggTimer/ActivityRecord.cs">
+    <Files>
+      <File FileName="EggTimer/ActivityTimer.cs" Line="6" Column="2" />
+      <File FileName="EggTimer/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="EggTimer/ActivityRecord.cs" Line="13" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EggTimer" expanded="True">
+            <Node name="EggTimer" expanded="True">
+              <Node name="ActivityRecord.cs" selected="True" />
+            </Node>
+            <Node name="EggTimer.UITests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EggTimer PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
